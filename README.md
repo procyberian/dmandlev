@@ -6,6 +6,8 @@
     A copy of the license is included in the section entitled "GNU
     Free Documentation License".
 
+[![GPL enforced badge](https://img.shields.io/badge/GPL-enforced-blue.svg "This project enforces the GPL.")](https://gplenforced.org)
+
 # dmandlev
 
 dimensions and levels general framework for managing services over network is the general interface of the application within [amassivus](https://www.github.com/amassivus) suite.
