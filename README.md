@@ -7,7 +7,9 @@
     A copy of the license is included in the section entitled "GNU
     Free Documentation License".
 
-[![GPL enforced badge](https://img.shields.io/badge/GPL-enforced-blue.svg "This project enforces the GPL.")](https://gplenforced.org)
+
+
+[![AGPL enforced badge](https://img.shields.io/badge/AGPL-enforced-blue.svg "This project enforces the GPL.")](https://gplenforced.org)
 
 # dmandlev
 
