@@ -7,7 +7,25 @@
     A copy of the license is included in the section entitled "GNU
     Free Documentation License".
 
+	
+   	Copyright (C) 2020,  Masscollabs Services, hwpplayers, procyberian(procyberian-linux), amassivus
 
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as published
+    by the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Affero General Public License for more details.
+
+    You should have received a copy of the GNU Affero General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+    For general questions please send an e-mail to core at masscollabs dot com
+    For technical support please send an e-mail to support at masscollabs dot com
+    For security issues and bug reports please send an e-mail to security at masscollabs dot com
 
 [![AGPL enforced badge](https://img.shields.io/badge/AGPL-enforced-blue.svg "This project enforces the GPL.")](https://gplenforced.org)
 
