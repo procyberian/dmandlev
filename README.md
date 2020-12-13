@@ -1,4 +1,4 @@
-Copyright (C)  2020  Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
+Copyright (C)  2020,2021  Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
 
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
@@ -8,7 +8,7 @@ A copy of the license is included in the section entitled "GNU
 Free Documentation License".
 
 	
-Copyright (C)  2020  Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
+Copyright (C)  2020,2021  Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
