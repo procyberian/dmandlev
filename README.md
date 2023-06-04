@@ -1,4 +1,4 @@
-Copyright (C)  2020,2021  Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
+Copyright (C)  2017-2023  Masscollabs Services
 
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
@@ -8,7 +8,7 @@ A copy of the license is included in the section entitled "GNU
 Free Documentation License".
 
 	
-Copyright (C)  2020,2021  Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
+Copyright (C)  2017-2023  Masscollabs Services
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
@@ -23,19 +23,14 @@ GNU Affero General Public License for more details.
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-For general questions please send an e-mail to core at masscollabs dot com
-
-For technical support please send an e-mail to support at masscollabs dot com
-
-For security issues and bug reports please send an e-mail to security at masscollabs dot com
 
 # dmandlev
 
 dimensions and levels general framework for managing services over network is the general interface of the application within [amassivus](https://www.github.com/amassivus) suite.
 
-## mtw
+## atlas(mtw)
 
-multi-tasking warriors shell framework for managing services over network is the terminal interface for dmandlev.
+atlas(multi-tasking warriors) shell framework for managing services over network is the terminal interface for dmandlev.
 
 ### Services
 
